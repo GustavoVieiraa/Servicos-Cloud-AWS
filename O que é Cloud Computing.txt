@@ -1,0 +1,52 @@
+Modelo On Premise
+
+Definição de uso: manter toda a infraestrutura de servidores de seu sistema / aplicação
+fisicamente dentro da companhia.
+
+	- Investimento inicial;
+	- Energia e internet;
+	- Restrição de acesso físico;
+	- Ambiente adequado;
+	- Gastos com manutenção e troca de equipamentos;
+
+Modelo Computação em Nuvem:
+
+		****** PAY AS YOU GO ******
+	- entrega de conteúdo;
+	- serviços de infraestrutura;
+	- segurança dos dados;
+	- capacidade computacional;
+	- machine learning;
+	- banco de dados
+	- armazenamento de arquivos;
+
+a Cloud fornece:
+
+	- Agilidade;
+	- Elasticidade;
+	- Economia;
+	- Ser global em instantes
+
+Provedores:
+
+	Empresas que criam e mantêm o serviço de cloud computing sob demanda.
+	ex:
+		Amazon Web Services
+		Google Cloud
+
+
+IAAS x PAAS x SAAS:
+
+	IAAS: Infrastrucutre as a Service
+
+	PAAS: Platform as a Service
+
+	SAAS: Software as a Service 
+	
+
+
+Modelo de Responsabilidade Compartilhada:
+
+	Segurança da Nuvem: Responsabilidade da AWS
+
+	Seguranda na Nuvem: Responsabilidade do Cliente
