@@ -1,0 +1,23 @@
+				Overview AWS
+	Rica documentação
+
+				Free Tier / Nível Gratuito
+	O que é? 
+		A AWS disponibiliza alguns modelos de Free Tier para estudantes
+		e micro-empresas que quer testar a AWS, poder usufluir dos recursos
+		sem pagar por isso, pra realmente testar e entender.
+		
+				Formas de Interação
+		Existem três formas de nível de interação,
+		a primeira delas é:
+		
+		AWS Console: É basicamente a parte da interface gráfica que acessos
+		e configuramos os serviços e recursos.
+		
+		AWS SDK: É um kit de desenvolvimento de software (SDK) que é um 
+		conjunto de ferramentas de criação específicas da plataforma 
+		para desenvolvedores.
+		
+		AWS CLI: É também o AWS CLI que é o command line interface, que é 
+		basicamente os comandos via terminal que conseguimos executar para
+		interagir com instancias ou banco de dados.
