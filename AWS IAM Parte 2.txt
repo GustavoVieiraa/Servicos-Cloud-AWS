@@ -1,0 +1,10 @@
+					AWS IAM Parte 2
+		Amazon Identity and Acess Management
+		
+					Roles
+		É uma identidade da AWS com políticas de
+		permissão que determinam o que a entidade/serviço
+		que o utilizará pode e não pode fazer na AWS.
+		
+					Usuário x Role
+		Explicação e pratica através do vídeo.
