@@ -1,0 +1,50 @@
+					Amazon RDS e Amazon Elasticache
+	
+		O que é banco de dados?
+			O proposito dele é justamente armazenamento de dados.
+			Tanto na hora de inserir os dados, quanto no momento de
+			utiliza-los.
+			
+		
+		Tipos de banco de dados:
+			Quando nós falamos de banco de dados, é muito importante
+			entender que existem vários tipos de banco de dados, mas
+			os principais são o modelo, relacional e o Não relacional.
+			
+			Relacional>
+				Quando falamos do tipo relacional, são dados estruturados
+				em formato de tabela, colunas e linhas.
+				Por exemplo, como se fosse uma coluna de excel.
+				
+			Não Relacional>
+				Quando falamos do modelo não relacional, existem dois tipos
+				podemos falar do modelo em documento, que é tipo um JSON,
+				e também temos o modelo, chave e valor.
+				
+					Amazon RDS
+					
+			Quando estamos falando de banco de dados relacional, na AWS
+			ela disponibiliza o serviço chamado Amazon RDS.
+			
+			O Amazon RDS - Relational Database Service é o serviço que da
+			AWS para uso de banco de dados relacional. Oferece capacidade
+			econômica e redimensionável em sete opções de mecanismos: 
+			
+				-> Amazon Aurora compatível com MySQL
+				-> Amazon Aurora compatível com PostgreSQL
+				-> MySQL
+				-> MariaDB
+				-> PostgreSQL
+				-> Oracle
+				-> SQL Server.
+					
+					
+					Amazon Elasticache
+			
+			Serviço de Banco de Dados não relacional de chave e valor. Facilita
+			a configuração, o gerenciamento e a escabilidade de um armazenamento
+			de dados distribuído na memória ou de um ambiente de cache na nuvem.
+			Dois casos de uso de exemplos para o Amazon Elasticache são: 
+			
+			Cache de Banco de dados
+			Gerenciamento de sessão
