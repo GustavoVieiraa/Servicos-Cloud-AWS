@@ -1,0 +1,36 @@
+					AWS IAM I
+		Amazon Identity and Acess Management
+		
+	Nessa aula vamos ver os serviços da AWS que são
+	responsáveis por usuários e acessos.
+	
+	Ele se chama AWS IAM (Amazon Identity and Acess Management)
+	ele é o serviço que gerenciamos todos os tipos de acessos
+	que vão acontecer em nossa conta.
+		ex. Que funcionarios que tem acesso à conta da AWS,
+		quais recursos AWS podem interagir com outros recursos,
+		quais instancias podem ter acesso ao serviço de armazenamento
+		de objetos, por exemplo Amazon S3.
+	Com o AWS IAM é possível gerenciar toda essa configuração, essa
+	parte de segurança, de maneira bastante granular.
+	
+					Usuários e Grupos
+					
+	Quando falamos de usuário, existem dois formatos de usuário
+		Primeiro: é o usuário que tem acesso via Management Console.
+		Segundo: É o que tem um acesso programático.
+	o que muda de um para o outro?
+	No primeiro você concede ao seu usuário, um usuário e uma senha.
+	Já, no segundo, no acesso programático, esse acessara o sistema
+	através de uma chave SSH.
+	Cada modelo de usuário, faz sentido, dependendo do que você quer
+	conceder de acesso.
+	
+	Já os grupos, é uma forma de organizamos por exemplo, os times
+		ex. Time de Desenvolvedores & Time de Infraestrutura
+	
+	
+					Políticas
+					
+	Definições de acesso que garantirá as permissões desejadas para
+	quem a utilizar.
