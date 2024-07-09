@@ -1,6 +1,6 @@
 <div align="center">
-  <img src=https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=webp&w=256 height="256" width="256">
   <h1><strong>Servicos Cloud AWS ☁</strong></h1>
+  <img src=https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=webp&w=256 height="256" width="256">
 </div>
 <br>
 <h2>Trilha de aprendizagem completa, passando por alguns dos serviços mais importantes
