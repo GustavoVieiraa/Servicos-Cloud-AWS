@@ -1,0 +1,32 @@
+				AWS Lambda
+				
+		O que é Serverless?
+		
+		Serverless é um modelo de desenvolvimento
+		utilizado na computação em nuvem, que onde
+		o proprio nome já diz, Serverless que significa
+		sem servidor.
+		O que isso significa na prática?
+		Que você não precisa se preocupar com preocupações
+		que você teria se você tivesse por exemplo, configurando
+		seu servidor pra fazer a sua aplicação rodar.
+		Você não tem que se preocupar com qual o sistema operacional
+		que está sendo executado, o quanto de CPU você tem que 
+		definir para aquele servidor conseguir executar a sua
+		aplicação.
+		
+		No caso da AWS, os serviços de computação sem servidor
+		é o AWS Lambda. Então, a sua responsabilidade utilizando
+		o Lambda é, fazer a escrita do seu código, pegar esse código
+		e fazer a configuração da sua função. Na função Lambda, você
+		precisa se preocupar com apenas alguns pontos, por exemplo:
+		
+			-> variaveis de ambiente
+			-> permissões da Lambda
+			-> Timeout da Lambda
+			
+		AWS Lambda: Serviço escalável, altamente disponivel para
+		execução de código sem servidor - Serverless.
+		Permite integração com outros serviços da AWS para serem
+		utilizados como triggers: Amazon S3, Amazon SQS,
+		agendamento pelo cloudwatch.	
