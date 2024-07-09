@@ -1,0 +1,8 @@
+				Utilizando o Amazon S3 como trigger de uma Lambda
+				
+		Primeiramente, vamos fazer a criação de um S3 Bucket e inserir um objeto
+		dentro desse Bucket.
+		Depois faremos a criação, da nossa policy, role e function, faremos o
+		Deploy desse nosso código, vamos gerar uma trigger e configura-la,
+		gerar um evento de teste, e depois de fato vamos gerar um fluxo real
+		utilizando o S3 como trigger.
