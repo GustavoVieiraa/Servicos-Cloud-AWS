@@ -1,0 +1,34 @@
+					Amazon SNS
+		Amazon Simple Notification Service
+		
+		O Amazon Simple Notification Service (Amazon SNS)
+		é um serviço gerenciado que fornece entrega de
+		mensagens de produtores para consumidores.
+		
+		
+					Amazon SQS
+		Amazon Simple Queue Service
+		
+		O Amazon Simple Queue Service (Amazon SQS) oferece
+		o serviço hospedado de enfileiramento confiável,
+		seguro (com criptografia) e altamente escalável para armazenar 
+		mensagens em trânsito. Também é possível mover
+		dados entre componentes de aplicações diferentes e
+		distribuídos, sem perder mensagens nem precisar que
+		cada componente esteja sempre disponível.
+		
+		DLQ: Dead Letter Queue - Se por algum acaso, as mensagens
+		da fila tiverem algum problema para ser consumidas pelo
+		componente B, a gente consegue ativar essa configuração de
+		DLQ na própria fila do Amazon SQS, e essa mensagem, se por
+		algum motivo não conseguir ser consumida, ela vai automaticamente
+		para a DLQ, que é uma fila de mensagens mortas, e ali os proprios
+		Desenvolvedores podem seguir com uma tratativa no sistema, pra 
+		consumir essas mensagens mortas, para que elas não sejam perdidas.
+		Elas só sairam da fila principal e foram para a DLQ.
+		
+		
+					Estrutura desacoplada utilizando
+					Amazon SQS e Amazon SNS
+					
+		
