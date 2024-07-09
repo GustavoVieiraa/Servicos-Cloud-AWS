@@ -1,0 +1,32 @@
+					Amazon KMS
+		
+		O que é criptografia?
+		
+		A criptografia pode ser definida como uma
+		proteção além da senha, algo que somente 
+		quem possuí-la junto com o algoritmo pode
+		acessar o conteúdo. 
+		Fornece comunicação segura na presença de
+		terceiros mal-intencionados. A tecnologia
+		usa um algoritmo e uma chave para transformar
+		uma entrada (texto simples) em uma saida
+		criptografada (texto codificado).
+		
+					Amazon KMS
+		
+		Serviço gerenciado que facilita a criação e
+		o controle de chaves criptográficas usadas
+		para proteger os dados. Ele pode ser utilizado
+		em conjunto de com outros serviços da AWS para
+		prover uma estrutura mais segura.
+		
+		Criptografia em repouso: É quando criamos por
+		exemplo uma instancia EC2 e a gente define a 
+		criptografia dos dados em repouso do disco 
+		EBS da maquina. Isso significa que os dados
+		quando estão dentro da instancia eles estão
+		protegidos pela criação do disco EBS.
+		
+		Criptografia dos dados em transito: É quando os
+		dados estão saindo de um local e indo para o outro.
+		
