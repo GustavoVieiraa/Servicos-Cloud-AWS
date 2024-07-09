@@ -1,0 +1,20 @@
+					Amazon S3
+			Simple Storege Service
+			
+		Serviço gerenciado de armazenamento de
+		objetos (arquivos/diretorios) que oferece:
+		
+			-> Disponibilidade
+			-> Segurança
+			-> Escabilidade
+			-> Performance
+		
+		Quando estamos utilizando o serviço do Amazon S3
+		utilizamos a criação de buckets, onde nos armazenamos
+		os objetos desejados.
+		
+					Categorias de Armazenamento
+		
+		Dependendo da frequencia que vamos acessar os dados
+		e da velocidade que precisamos que os dados sejam
+		retornados.
